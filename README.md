@@ -1,8 +1,8 @@
-## Created Mini Image Processing Project:
+## Hi, Here's my mini Image 🏠 Processing Project:
 
 ### For the project followed these steps:
 * Imported all the relevant libraries and tools.
-* Load the MNIST dataset. Use a library such as scikit-learn to access the dataset (from sklearn.datasets import load_digits).
+* Load the MNIST dataset. Used a library 🧾 such as scikit-learn to access the dataset (from sklearn.datasets import load_digits).
 * Reshaped the image and plotted to show trainined images.
 * Split the data into train and test sets.
 * Added comments explaining the purpose of the train and test sets.
