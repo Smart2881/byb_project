@@ -1,6 +1,6 @@
-## Hi, Here's my mini Image 🏠 Processing Project:
+## Hi, Here's my Image 🖼 Processing Project...hope its an useful guide for similar Image processing projects.
 
-### For the project followed these steps:
+### For this project have followed below steps:
 * Imported all the relevant libraries and tools.
 * Load the MNIST dataset. Used a library 🧾 such as scikit-learn to access the dataset (from sklearn.datasets import load_digits).
 * Reshaped the image and plotted to show trainined images.
@@ -14,4 +14,4 @@
 * Tuned using GridSearchCV.
 * Reported which classes the model struggles with the most.
 * Reported the accuracy, precision, recall, and f1-score.
-* Used average=”macro” in precision_score, recall_score and f1_score from scikit-learn.
+* Used average=”macro” in precision_score, recall_score and f1_score from scikit-learn
